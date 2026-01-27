@@ -1,11 +1,4 @@
 # Freedom Mobile
-IP-CIDR,199.119.232.0/22,no-resolve
-IP-CIDR,199.119.236.0/22,no-resolve
-IP-CIDR,199.119.76.0/22,no-resolve
-IP-CIDR,199.119.208.0/22,no-resolve
-IP-CIDR,199.7.156.0/22,no-resolve
-IP-CIDR,199.7.158.0/22,no-resolve
-IP-CIDR,208.98.0.0/16,no-resolve
 IP-CIDR,38.192.128.0/22,no-resolve
 IP-CIDR,38.192.132.0/22,no-resolve
 IP-CIDR,38.192.136.0/22,no-resolve
@@ -14,6 +7,9 @@ IP-CIDR,38.192.144.0/22,no-resolve
 IP-CIDR,38.192.148.0/22,no-resolve
 IP-CIDR,74.115.192.0/22,no-resolve
 IP-CIDR,74.115.196.0/22,no-resolve
+IP-CIDR,199.7.156.0/22,no-resolve
+IP-CIDR,199.119.232.0/22,no-resolve
+IP-CIDR,208.98.222.0/23,no-resolve
 IP-CIDR6,2606:3c00:f000::/36,no-resolve
 
 # Bell Mobility (AS36522)

@@ -168,6 +168,7 @@ IP-CIDR6,2605:b100:f400::/40,no-resolve
 IP-CIDR6,2605:b100:f500::/40,no-resolve
 
 # Rogers Communications (Rogers/Fido) (AS812)
+IP-CIDR,23.27.205.0/24,no-resolve
 IP-CIDR,23.155.64.0/24,no-resolve
 IP-CIDR,24.102.0.0/18,no-resolve
 IP-CIDR,24.114.0.0/16,no-resolve
@@ -312,6 +313,7 @@ IP-CIDR,93.119.106.0/24,no-resolve
 IP-CIDR,95.134.114.0/23,no-resolve
 IP-CIDR,96.46.72.0/24,no-resolve
 IP-CIDR,96.46.75.0/24,no-resolve
+IP-CIDR,96.126.164.0/22,no-resolve
 IP-CIDR,97.75.0.0/18,no-resolve
 IP-CIDR,97.108.0.0/14,no-resolve
 IP-CIDR,99.208.0.0/12,no-resolve
@@ -334,7 +336,14 @@ IP-CIDR,129.33.188.0/24,no-resolve
 IP-CIDR,142.0.144.0/20,no-resolve
 IP-CIDR,142.146.8.0/24,no-resolve
 IP-CIDR,143.14.232.0/21,no-resolve
+IP-CIDR,144.225.218.0/24,no-resolve
+IP-CIDR,144.225.219.0/24,no-resolve
+IP-CIDR,144.225.220.0/24,no-resolve
+IP-CIDR,144.225.221.0/24,no-resolve
+IP-CIDR,144.225.222.0/24,no-resolve
+IP-CIDR,144.225.223.0/24,no-resolve
 IP-CIDR,149.99.0.0/16,no-resolve
+IP-CIDR,152.163.108.0/23,no-resolve
 IP-CIDR,152.232.252.0/22,no-resolve
 IP-CIDR,155.117.204.0/24,no-resolve
 IP-CIDR,159.6.88.0/24,no-resolve
@@ -359,6 +368,9 @@ IP-CIDR,178.95.82.0/24,no-resolve
 IP-CIDR,178.95.236.0/24,no-resolve
 IP-CIDR,178.95.251.0/24,no-resolve
 IP-CIDR,185.145.216.0/22,no-resolve
+IP-CIDR,189.104.0.0/23,no-resolve
+IP-CIDR,189.104.10.0/23,no-resolve
+IP-CIDR,189.104.100.0/23,no-resolve
 IP-CIDR,192.65.232.0/21,no-resolve
 IP-CIDR,192.75.203.0/24,no-resolve
 IP-CIDR,192.102.11.0/24,no-resolve
@@ -412,6 +424,12 @@ IP-CIDR,204.225.5.0/24,no-resolve
 IP-CIDR,204.225.65.0/24,no-resolve
 IP-CIDR,204.225.67.0/24,no-resolve
 IP-CIDR,204.225.68.0/24,no-resolve
+IP-CIDR,205.188.104.0/22,no-resolve
+IP-CIDR,205.188.112.0/22,no-resolve
+IP-CIDR,205.188.120.0/22,no-resolve
+IP-CIDR,205.188.128.0/22,no-resolve
+IP-CIDR,205.188.136.0/22,no-resolve
+IP-CIDR,205.188.144.0/22,no-resolve
 IP-CIDR,205.189.88.0/24,no-resolve
 IP-CIDR,205.189.158.0/24,no-resolve
 IP-CIDR,205.207.26.0/24,no-resolve
@@ -479,6 +497,7 @@ IP-CIDR,209.217.112.0/21,no-resolve
 IP-CIDR,209.217.120.0/24,no-resolve
 IP-CIDR,209.217.122.0/23,no-resolve
 IP-CIDR,209.217.124.0/22,no-resolve
+IP-CIDR,216.16.224.0/19,no-resolve
 IP-CIDR,216.129.210.0/24,no-resolve
 IP-CIDR,216.138.192.0/23,no-resolve
 IP-CIDR,216.138.200.0/22,no-resolve

@@ -172,6 +172,8 @@ IP-CIDR,9.232.0.0/20,no-resolve
 IP-CIDR,9.233.112.0/21,no-resolve
 IP-CIDR,9.249.96.0/22,no-resolve
 IP-CIDR,9.249.108.0/22,no-resolve
+IP-CIDR,13.141.128.0/21,no-resolve
+IP-CIDR,13.141.136.0/22,no-resolve
 IP-CIDR,23.27.205.0/24,no-resolve
 IP-CIDR,23.155.64.0/24,no-resolve
 IP-CIDR,24.102.0.0/18,no-resolve

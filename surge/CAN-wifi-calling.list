@@ -333,10 +333,6 @@ IP-CIDR,97.75.0.0/18,no-resolve
 IP-CIDR,97.108.0.0/14,no-resolve
 IP-CIDR,99.208.0.0/12,no-resolve
 IP-CIDR,99.224.0.0/11,no-resolve
-IP-CIDR,104.164.77.0/24,no-resolve
-IP-CIDR,104.164.79.0/24,no-resolve
-IP-CIDR,104.164.80.0/24,no-resolve
-IP-CIDR,104.164.97.0/24,no-resolve
 IP-CIDR,104.165.226.0/24,no-resolve
 IP-CIDR,104.239.55.0/24,no-resolve
 IP-CIDR,104.249.23.0/24,no-resolve

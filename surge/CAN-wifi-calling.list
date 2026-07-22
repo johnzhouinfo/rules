@@ -426,6 +426,10 @@ IP-CIDR,198.207.10.0/24,no-resolve
 IP-CIDR,198.235.63.0/24,no-resolve
 IP-CIDR,199.43.119.0/24,no-resolve
 IP-CIDR,199.85.192.0/24,no-resolve
+IP-CIDR,199.187.224.0/24,no-resolve
+IP-CIDR,199.187.225.0/24,no-resolve
+IP-CIDR,199.187.226.0/24,no-resolve
+IP-CIDR,199.187.227.0/24,no-resolve
 IP-CIDR,199.202.146.0/24,no-resolve
 IP-CIDR,199.202.200.0/24,no-resolve
 IP-CIDR,199.204.208.0/24,no-resolve

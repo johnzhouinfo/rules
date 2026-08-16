@@ -555,7 +555,6 @@ IP-CIDR6,2607:f798::/32,no-resolve
 IP-CIDR6,2607:fea8::/32,no-resolve
 
 # TELUS Mobility (AS14663)
-IP-CIDR,161.184.88.0/24,no-resolve
 IP-CIDR,216.198.128.0/20,no-resolve
 IP-CIDR,216.198.144.0/20,no-resolve
 

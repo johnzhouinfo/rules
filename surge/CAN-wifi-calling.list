@@ -261,9 +261,6 @@ IP-CIDR,129.33.186.0/24,no-resolve
 IP-CIDR,129.33.187.0/24,no-resolve
 IP-CIDR,129.33.188.0/24,no-resolve
 IP-CIDR,135.12.28.0/22,no-resolve
-IP-CIDR,136.0.67.0/24,no-resolve
-IP-CIDR,136.0.161.0/24,no-resolve
-IP-CIDR,136.0.209.0/24,no-resolve
 IP-CIDR,136.0.226.0/24,no-resolve
 IP-CIDR,142.0.144.0/20,no-resolve
 IP-CIDR,142.146.8.0/24,no-resolve

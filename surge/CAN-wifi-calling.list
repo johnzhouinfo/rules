@@ -289,6 +289,10 @@ IP-CIDR,162.208.80.0/22,no-resolve
 IP-CIDR,162.212.232.0/21,no-resolve
 IP-CIDR,162.252.252.0/22,no-resolve
 IP-CIDR,166.1.17.0/24,no-resolve
+IP-CIDR,167.94.170.0/24,no-resolve
+IP-CIDR,167.94.171.0/24,no-resolve
+IP-CIDR,167.94.172.0/24,no-resolve
+IP-CIDR,167.94.173.0/24,no-resolve
 IP-CIDR,173.32.0.0/14,no-resolve
 IP-CIDR,173.195.48.0/20,no-resolve
 IP-CIDR,173.209.128.0/19,no-resolve
